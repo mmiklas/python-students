@@ -1,2 +1,6 @@
-print("Mam na imię...")  # tutaj wpisz swoje imię
-# i dodaj jeszcze jakiś ciekawy kod
+print("Mam na imię Tomek")
+
+
+for i in range(5):
+    print(i)
+
