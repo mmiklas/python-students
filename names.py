@@ -1,2 +1,7 @@
-print("Mam na imię...")  # tutaj wpisz swoje imię
-# i dodaj jeszcze jakiś ciekawy kod
+print("Mam na imię Paweł")
+
+for i in range (3):
+    print ("Paweł")
+
+print ("zmiana testowa" + "godzina 16.26" )
+
