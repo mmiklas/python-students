@@ -4,4 +4,4 @@ print("Mam na imię Mateusz")
 
 print("Mam na imię Mateusz")
 
-
+#falandys@student.wszib.edu.pl
