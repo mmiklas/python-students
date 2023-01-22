@@ -1,2 +1,7 @@
-print("Mam na imię...")  # tutaj wpisz swoje imię
-# i dodaj jeszcze jakiś ciekawy kod
+print("Mam na imię Mateusz")  # tutaj wpisz swoje imię
+
+print("Mam na imię Mateusz")
+
+print("Mam na imię Mateusz")
+
+#falandys@student.wszib.edu.pl
