@@ -1,2 +1,3 @@
-print("Mam na imię...")  # tutaj wpisz swoje imię
-# i dodaj jeszcze jakiś ciekawy kod
+print("Mam na imię Kuba.")
+print("Dokonałem drobnych zmian w tym skrypcie.")
+
