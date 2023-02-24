@@ -3,6 +3,6 @@ print("Mam na imię Ewelina")  # tutaj wpisz swoje imię
 
 for i in range (10):
   print ("Ewelina")
-  print ("_______")
+  print ("________")
 
 
