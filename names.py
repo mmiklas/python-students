@@ -1,2 +1,6 @@
-print("Mam na imię...")  # tutaj wpisz swoje imię
-# i dodaj jeszcze jakiś ciekawy kod
+print("Mam na imię Florentyna")
+a = 7
+b = 2
+
+maximum = max(a, b)
+print(maximum)
