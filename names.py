@@ -1,2 +1,3 @@
-print("Mam na imię...")  # tutaj wpisz swoje imię
+name='Krzysztof'
+print("Mam na imię",name)  # tutaj wpisz swoje imię
 # i dodaj jeszcze jakiś ciekawy kod
