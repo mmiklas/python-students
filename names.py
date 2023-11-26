@@ -1,2 +1,5 @@
-print("Mam na imię...")  # tutaj wpisz swoje imię
-# i dodaj jeszcze jakiś ciekawy kod
+age= 28
+print("Mam na imię Dominika.")
+print("Mam", age, "lat.")
+
+
